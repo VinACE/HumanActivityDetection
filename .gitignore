@@ -5,7 +5,8 @@ __pycache__/
 
 # C extensions
 *.so
-
+*.avi
+*.features
 # Distribution / packaging
 .Python
 env/
